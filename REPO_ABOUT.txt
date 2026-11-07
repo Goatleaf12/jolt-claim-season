@@ -1,0 +1,3 @@
+Description: JOLT — a 3-day Agent-ID-gated claim season on BNB Chain: solve the route puzzle, earn a signed voucher, claim on-chain; 70% of claim fees lock into the listing pool.
+
+Topics: bnb-chain, ai-agents, agent-id, token-claim, web3
